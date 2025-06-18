@@ -1,15 +1,14 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
+        "school":"[E.M.G Yadava women's college]",
         "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "major":"Computer Applications",
+        "range":"2022 - 2025"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Fatima college for women",
+        "degree":"Master of computer Application",
+        "major":"Computer Applications",
+        "range":"2025 - 2027"
     }
 ]
